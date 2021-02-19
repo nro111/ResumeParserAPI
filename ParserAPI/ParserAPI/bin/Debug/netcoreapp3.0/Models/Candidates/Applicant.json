@@ -1,0 +1,154 @@
+﻿{
+  "ID": 1,
+  "FirstName": "",
+  "LastName": "",
+  "Email": "",
+  "Phone": 1,
+  "Username": "",
+  "Password": "",
+  "Experience": 0,
+  "Jobs": [
+    {
+      "ID": 1,
+      "Company": "",
+      "Title": "",
+      "MonthsInPosition": 36,
+      "Experience": 0,
+      "Skills": [
+        {
+          "ID": 1,
+          "Name": "C#",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 60.00
+        },
+        {
+          "ID": 2,
+          "Name": "ASP.Net",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 20.00
+        },
+        {
+          "ID": 3,
+          "Name": "SQL",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 20.00
+        }
+      ]
+
+    }
+  ],
+  "Education": [
+    {
+      "ID": 1,
+      "School": "",
+      "Degree": "",
+      "Level": "Bachelors",
+      "Experience": 0,
+      "Skills": [
+        {
+          "ID": 1,
+          "Name": "OOP",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 20.00
+        },
+        {
+          "ID": 2,
+          "Name": "ERD",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 20.00
+        },
+        {
+          "ID": 3,
+          "Name": "Algorithms",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 20.00
+        },
+        {
+          "ID": 4,
+          "Name": "Patterns",
+          "Type": "",
+          "Experience": 0,
+          "PercentageOfTimeUsed": 20.00
+        }
+      ]
+
+    }
+  ],
+  "Patents": [
+    {
+      "ID": 1,
+      "Name": "",
+      "Description": "",
+      "PatentNumber": 0,
+      "Experience": 0,
+      "Skills": [
+        {
+          "ID": 1,
+          "Name": "",
+          "Type": "",
+          "Experience": 1
+        }
+      ]
+
+    }
+  ],
+  "Publications": [
+    {
+      "ID": 1,
+      "Name": "",
+      "Description": "",
+      "Link": "",
+      "Experience": 1,
+      "Skills": [
+        {
+          "ID": 1,
+          "Name": "",
+          "Type": "",
+          "Experience": 1
+        }
+      ]
+    }
+  ],
+  "Messages": [
+    {
+      "ID": 1,
+      "ConversationID": 1,
+      "DateRecieved": "",
+      "From": [
+        {
+          "ID": 1,
+          "FirstName": "",
+          "LastName": "",
+          "Email": "",
+          "Phone": 1,
+          "Username": ""
+        }
+      ],
+      "To": [
+        {
+          "ID": 1,
+          "FirstName": "",
+          "LastName": "",
+          "Email": "",
+          "Phone": 1,
+          "Username": ""
+        }
+      ],
+      "Subject": "",
+      "Body": "",
+      "Attachments": [
+        {
+          "ID": 1,
+          "Type": "",
+          "Document": ""
+        }
+      ]
+    }
+  ]
+}
